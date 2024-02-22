@@ -1,0 +1,31 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*bc6hbz*_ga*MDk1MzUzNTQyNC4xNzA3OTM1ODk5*_ga_3LRZM6TM9L*MTcwODYzNzg2OS42LjEuMTcwODY0MDk2MC4wLjAuMA..);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.item-1 {
+    background-color: mediumspringgreen;
+}
+
+.item-2 {
+    background-color: lightcoral;
+}
+
+.item-3 {
+    background-color: skyblue;
+}
+
+span {
+    color: blue;
+}
